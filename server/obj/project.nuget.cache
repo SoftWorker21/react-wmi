@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "73nhs6i/grHVPhkEePFEG0rLEejUTphIUUbDeG7J0Vj22+8b1AGg4EOfA7xgEy3qUQPXxfkAzLY+oV67WU2Nxg==",
+  "success": true,
+  "projectFilePath": "/Users/vpavlivs/Desktop/Backend-data/server/wmi-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/vpavlivs/.nuget/packages/microsoft.aspnetcore.nodeservices/3.1.23/microsoft.aspnetcore.nodeservices.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.aspnetcore.spaservices/3.1.23/microsoft.aspnetcore.spaservices.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/3.1.23/microsoft.aspnetcore.spaservices.extensions.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.configuration/3.1.23/microsoft.extensions.configuration.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.23/microsoft.extensions.configuration.abstractions.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.configuration.binder/3.1.23/microsoft.extensions.configuration.binder.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.23/microsoft.extensions.dependencyinjection.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.23/microsoft.extensions.dependencyinjection.abstractions.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.23/microsoft.extensions.fileproviders.abstractions.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.23/microsoft.extensions.fileproviders.physical.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.23/microsoft.extensions.filesystemglobbing.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.logging/3.1.23/microsoft.extensions.logging.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.23/microsoft.extensions.logging.abstractions.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.logging.configuration/3.1.23/microsoft.extensions.logging.configuration.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.logging.console/3.1.23/microsoft.extensions.logging.console.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.options/3.1.23/microsoft.extensions.options.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.23/microsoft.extensions.options.configurationextensions.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.extensions.primitives/3.1.23/microsoft.extensions.primitives.3.1.23.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/vpavlivs/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

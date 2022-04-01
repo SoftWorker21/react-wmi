@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = wmi_app
+build_property.ProjectDir = /Users/vpavlivs/Desktop/Backend-data/server/
